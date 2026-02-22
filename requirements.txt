@@ -1,0 +1,3 @@
+topfarm
+matplotlib
+jupyter
