@@ -1,0 +1,9 @@
+Eksperyment,Liczba turbin,AEP Przed [GWh],AEP Po [GWh],Poprawa [%]
+Sprint 1: IEA37 9WT,9,178.38,239.69,34.37
+Sprint 2: 2D spacing,9,178.38,229.13,28.45
+Sprint 2: 3D spacing,9,178.38,232.24,30.19
+Sprint 2: 4D spacing,9,178.38,178.38,0.0
+Sprint 3: Szybki (20it),9,178.38,210.42,17.96
+Sprint 3: Dokładny (200it),9,178.38,239.69,34.37
+Sprint 4: Skala 9WT,9,178.38,233.83,31.09
+Sprint 4: Skala 16WT,16,366.94,400.34,9.1
